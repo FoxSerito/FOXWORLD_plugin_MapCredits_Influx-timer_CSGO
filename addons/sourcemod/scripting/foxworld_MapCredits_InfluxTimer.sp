@@ -10,7 +10,7 @@ public Plugin myinfo =
 	author = "FoxSerito",
 	description = "Gives Shop credits when you finish a map",
 	version = "1.0",
-	url = ""
+	url = "https://foxw.ru/"
 };
 
 char currentMap[64];
